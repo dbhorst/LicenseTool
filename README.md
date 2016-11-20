@@ -1,3 +1,5 @@
 # README
 
-Small Tool to manage licenses.
+A Small Tool to manage licenses.
+
+Testing Spring Boot
